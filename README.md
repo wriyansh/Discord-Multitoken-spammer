@@ -10,3 +10,8 @@ Eg:- !repeat 0 10 hello world {each tokens spams this text 10 time in the same c
 0/1 are the options for multi-channel and single channel opt if 0 is used then it spams the text in the same channel ,if 1 is used then it spams all the existing channels for the same no. of times.
 
 Add your main id user id from which the cmd will be executed in the allowed user id variable in spamm.py
+
+Discord :-
+
+[@riyansh.96](https://discord.com/users/642321844170653729)
+[@wriyansh](https://discord.com/users/333703596803883018)
